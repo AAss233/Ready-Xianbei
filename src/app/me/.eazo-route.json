@@ -1,0 +1,8 @@
+{
+  "route": "me",
+  "name": "我的",
+  "nav_type": "tab",
+  "order_index": 3,
+  "icon": "user",
+  "summary": "用户信息、成长数据、称号系统、客服入口"
+}

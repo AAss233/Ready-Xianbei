@@ -1,0 +1,1 @@
+ALTER TABLE "reviews" ADD COLUMN IF NOT EXISTS "seed_likes" integer DEFAULT 0 NOT NULL;

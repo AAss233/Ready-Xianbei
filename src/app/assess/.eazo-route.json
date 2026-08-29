@@ -1,0 +1,9 @@
+{
+  "route": "assess",
+  "name": "安全评估",
+  "nav_type": "stack",
+  "parent": "",
+  "order_index": 4,
+  "icon": "clipboard-list",
+  "summary": "填家庭画像→生成标签与风险评估"
+}

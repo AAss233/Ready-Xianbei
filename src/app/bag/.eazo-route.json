@@ -1,0 +1,8 @@
+{
+  "route": "bag",
+  "name": "背包",
+  "nav_type": "tab",
+  "order_index": 1,
+  "icon": "backpack",
+  "summary": "评估结果与个性化标签、BOB推荐/家庭常备/预演练清单"
+}

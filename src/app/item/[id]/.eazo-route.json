@@ -1,0 +1,10 @@
+{
+  "route": "item/[id]",
+  "name": "物品详情",
+  "nav_type": "stack",
+  "parent": "bag",
+  "order_index": 6,
+  "icon": "package",
+  "summary": "任务/装备详情：匹配原因+学习内容+去购买外链",
+  "preview_route": "item/water"
+}

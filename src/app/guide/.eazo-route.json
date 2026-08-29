@@ -1,0 +1,9 @@
+{
+  "route": "guide",
+  "name": "行动指南",
+  "nav_type": "stack",
+  "parent": "",
+  "order_index": 5,
+  "icon": "siren",
+  "summary": "灾中灾后行动指南：灾害选择→步骤引导→医疗入口→安全确认→物资核对"
+}

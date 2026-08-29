@@ -1,0 +1,8 @@
+{
+  "route": "community",
+  "name": "社区",
+  "nav_type": "tab",
+  "order_index": 2,
+  "icon": "layers",
+  "summary": "灾害类型二级菜单、装备列表→知识/购买外链"
+}

@@ -1,0 +1,8 @@
+{
+  "route": "",
+  "name": "首页",
+  "nav_type": "tab",
+  "order_index": 0,
+  "icon": "home",
+  "summary": "安全状态总览、紧急按钮、风险指数、待补充清单前三条"
+}
